@@ -28,7 +28,7 @@ This project presents a schematic model that hypothesizes a system capable of ge
 
 ## 📷 Schematic Diagram
 
-![Schematic](./A_schematic_diagram_illustrates_a_hypothesized_Neg.png)
+![Schematic]https://github.com/YamamotoAi2025/Time-Space-control/blob/main/README.md
 
 ---
 
